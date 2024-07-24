@@ -1,6 +1,8 @@
 # ContextMenuManager
 ![](Logo/Logo.png)
 ------
+** The fork of this application was created to default to using the English language for easier usability.
+
 > 🖱️ A program to manage the Windows right-click context menu.
 
 ## Download the binary
