@@ -19,7 +19,7 @@
 * Add custom menu items and commands
 
 ## Supported systems and features
-* Windows Vista, 7, 8, 8.1, 10
+* Windows Vista, 7, 8, 8.1, 10, 11
 * 32 and 64 bit operating systems
 * Support for display scaling, optimal at 150% DPI
 * localization support: contributions are welcome
